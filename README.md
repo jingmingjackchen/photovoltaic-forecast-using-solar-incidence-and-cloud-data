@@ -1,4 +1,4 @@
-# Noobie Power Prediction
+# Photovoltaic Forecast Using Solar Incidence and Cloud Data
 
 A simple program to estimate the hourly forecasted efficiency of solar panels using clouds data sourced from free API.
 
